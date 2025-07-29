@@ -45,9 +45,7 @@
 
 <div align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohansagark&hide=php&layout=compact&theme=radical)
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mohansagark&theme=react-dark)
-
 
 </div>
 
