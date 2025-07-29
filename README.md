@@ -61,18 +61,6 @@
 
 ---
 
-### 📌 Pinned Projects
-
-<p align="center">
-  <a href="https://github.com/mohansagark/ivy-gpt">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mohansagark&repo=ivy-gpt&theme=radical" />
-  </a>
-  <a href="https://github.com/mohansagark/ai-expense-tracker">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mohansagark&repo=ai-expense-tracker&theme=radical" />
-  </a>
-</p>
-
----
 
 ### 🧠 Currently Learning
 
