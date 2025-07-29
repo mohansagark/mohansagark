@@ -45,8 +45,6 @@
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=mohansagark&theme=radical)
-![Streak](https://streak-stats.demolab.com/?user=mohansagark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohansagark&hide=php&layout=compact&theme=radical)
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mohansagark&theme=react-dark)
 
@@ -59,14 +57,6 @@
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=mohansagark&theme=dracula&margin-w=10&margin-h=10" />
-</p>
-
----
-
-### 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=mohansagark&theme=tokyonight_duo&hide_border=true" />
 </p>
 
 ---
