@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://devmohan.in" target="_blank">
-    <img src="https://img.shields.io/badge/🌐 Portfolio-devmohan.in-blueviolet?style=for-the-badge" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-devmohan.in-blueviolet?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/mohansagark/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-mohansagark-0077B5?style=for-the-badge&logo=linkedin" />
@@ -43,6 +43,13 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions)
 
+### 🤖 AI & LLM Tooling
+
+![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/-Prompt%20Engineering-8A2BE2?style=for-the-badge)
+![Agentic AI](https://img.shields.io/badge/-Agentic%20AI-10A37F?style=for-the-badge)
+![LLM Integration](https://img.shields.io/badge/-LLM%20Integration-FF6F00?style=for-the-badge)
+
 ---
 
 ### 📊 GitHub Stats
@@ -55,11 +62,13 @@
 
 ---
 
-### 🏆 GitHub Trophies
+### 🏆 Achievements
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mohansagark&theme=dracula&margin-w=10&margin-h=10" />
-</p>
+- **Engineering Excellence Award** (2024) — Invesco, for the AI R&D team's performance optimization framework
+- **Innovation Champion** (2023) — Reliance Jio, for leading the ResQ app redesign (1M+ users)
+- **Best Employee of the Quarter** (2021) — Reliance Jio, IFSG UI Team
+- **Winner, Shell Hackathon** (2019) — best concept and presentation
+- **Star Performer** (2018, twice) — Accenture, leadership in testing and delivery
 
 ---
 
@@ -68,12 +77,6 @@
 - ✅ Agentic AI platform UX — reasoning-trace visualization, voice-enabled interfaces
 - ✅ Real-time systems on Amazon Connect, unifying multiple CCaaS providers
 - ✅ Scaling design systems for AI-native products
-
----
-
-### ✨ Fun Fact
-
-> I never received a Rakhi as a child, but today I have more sisters than I can count — and I’m proud of the person I’ve become ❤️
 
 ---
 
