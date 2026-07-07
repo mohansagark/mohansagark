@@ -62,13 +62,22 @@
 
 ---
 
-### 🏆 Achievements
+### 🏅 GitHub Achievements
 
-- **Engineering Excellence Award** (2024) — Invesco, for the AI R&D team's performance optimization framework
-- **Innovation Champion** (2023) — Reliance Jio, for leading the ResQ app redesign (1M+ users)
-- **Best Employee of the Quarter** (2021) — Reliance Jio, IFSG UI Team
-- **Winner, Shell Hackathon** (2019) — best concept and presentation
-- **Star Performer** (2018, twice) — Accenture, leadership in testing and delivery
+<p align="center">
+  <a href="https://github.com/users/mohansagark/achievements/arctic-code-vault-contributor/detail">
+    <img src="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png" width="64" alt="Arctic Code Vault Contributor" />
+  </a>
+  <a href="https://github.com/users/mohansagark/achievements/pull-shark/detail">
+    <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="64" alt="Pull Shark" />
+  </a>
+  <a href="https://github.com/users/mohansagark/achievements/quickdraw/detail">
+    <img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" width="64" alt="Quickdraw" />
+  </a>
+  <a href="https://github.com/users/mohansagark/achievements/yolo/detail">
+    <img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" width="64" alt="YOLO" />
+  </a>
+</p>
 
 ---
 
