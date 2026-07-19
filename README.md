@@ -101,16 +101,7 @@
 ---
 
 <!-- ======================= GITHUB STATS ======================= -->
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mohansagark&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1A1B27&title_color=7AA2F7&icon_color=BB9AF7&count_private=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohansagark&layout=compact&theme=tokyonight&hide_border=true&bg_color=1A1B27&title_color=7AA2F7&langs_count=8" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mohansagark&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="Trophies" />
-</p>
+### 📊 Contribution Activity
 
 <p align="center">
   <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=mohansagark&theme=tokyo-night&bg_color=1A1B27&color=7AA2F7&line=BB9AF7&point=FFFFFF&hide_border=true" alt="Activity graph" />
