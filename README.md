@@ -1,5 +1,5 @@
 <!-- ======================= BANNER ======================= -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24283b,50:7aa2f7,100:bb9af7&height=200&section=header&text=Mohan%20Sagar%20Killamsetty&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20Frontend%20Software%20Engineer%20%C2%B7%209%2B%20Years%20Building%20at%20Scale&descAlignY=58&descSize=18" alt="banner" />
+<img width="100%" src="./assets/banner.svg" alt="Mohan Sagar Killamsetty — AI & Frontend Software Engineer" />
 
 <!-- ======================= TYPING SVG ======================= -->
 <p align="center">
@@ -120,4 +120,4 @@
   <a href="mailto:contact@devmohan.in"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:bb9af7,50:7aa2f7,100:24283b&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontColor=ffffff&animation=fadeIn&fontAlignY=70" alt="footer" />
+<img width="100%" src="./assets/footer.svg" alt="Thanks for visiting!" />

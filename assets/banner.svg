@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="220" viewBox="0 0 1200 220" fill="none" role="img" aria-label="Mohan Sagar Killamsetty — AI &amp; Frontend Software Engineer">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="220" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#1a1b27"/>
+      <stop offset="0.45" stop-color="#3b4261"/>
+      <stop offset="0.75" stop-color="#7aa2f7"/>
+      <stop offset="1" stop-color="#bb9af7"/>
+    </linearGradient>
+    <linearGradient id="wave" x1="0" y1="0" x2="1200" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#7aa2f7" stop-opacity="0.25"/>
+      <stop offset="1" stop-color="#bb9af7" stop-opacity="0.25"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="220" fill="url(#bg)"/>
+
+  <!-- decorative waves -->
+  <path d="M0 168 C 180 128, 320 208, 520 168 S 900 128, 1200 168 L 1200 220 L 0 220 Z" fill="url(#wave)"/>
+  <path d="M0 190 C 200 156, 380 224, 600 190 S 980 156, 1200 190 L 1200 220 L 0 220 Z" fill="#7aa2f7" fill-opacity="0.18"/>
+
+  <!-- title -->
+  <text x="600" y="98" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="46" font-weight="700" fill="#ffffff" letter-spacing="0.5">Mohan Sagar Killamsetty</text>
+
+  <!-- subtitle -->
+  <text x="600" y="140" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="20" font-weight="500" fill="#c0caf5" letter-spacing="0.5">AI &amp; Frontend Software Engineer  ·  9+ Years Building at Scale</text>
+</svg>

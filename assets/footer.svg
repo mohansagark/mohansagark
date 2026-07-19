@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="130" viewBox="0 0 1200 130" fill="none" role="img" aria-label="Thanks for visiting!">
+  <defs>
+    <linearGradient id="fbg" x1="0" y1="0" x2="1200" y2="130" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#bb9af7"/>
+      <stop offset="0.5" stop-color="#7aa2f7"/>
+      <stop offset="1" stop-color="#24283b"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="130" fill="url(#fbg)"/>
+  <path d="M0 40 C 200 8, 380 72, 600 40 S 980 8, 1200 40 L 1200 0 L 0 0 Z" fill="#1a1b27" fill-opacity="0.35"/>
+  <text x="600" y="88" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="22" font-weight="600" fill="#ffffff" letter-spacing="0.5">Thanks for visiting! ✨</text>
+</svg>
